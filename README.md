@@ -1,7 +1,7 @@
 # Week-2-Assignments-Submission-feb-2025-cohort
 
 
-QUIZ 1: 
+#QUIZ 1: 
 Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
 ANSWER: 
